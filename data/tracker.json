@@ -1,0 +1,20 @@
+{
+  "favorite_teams": [
+    "Colorado Avalanche"
+  ],
+  "favorite_players": [
+    "Nathan MacKinnon (COL)"
+  ],
+  "games": [
+    {
+      "id": "4863fc2d5d",
+      "date": "2026-11-12",
+      "away_team": "Anaheim Ducks",
+      "home_team": "Colorado Avalanche",
+      "away_score": 2,
+      "home_score": 4,
+      "rating": 4.5,
+      "note": "This was a great game. Nathan MacKinnon had a hat trick!"
+    }
+  ]
+}
